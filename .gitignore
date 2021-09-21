@@ -53,3 +53,7 @@ docs/_build/
 # PyBuilder
 target/
 .vagrant
+roles/.DS_Store
+roles/java/.DS_Store
+roles/kafka/.DS_Store
+roles/zookeeper/.DS_Store
